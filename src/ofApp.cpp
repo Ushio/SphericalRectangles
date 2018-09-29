@@ -132,6 +132,8 @@ void ofApp::draw(){
 	ofDisableDepthTest();
 	ofSetColor(255);
 
+	_camera.end();
+
 	ofxImGuiLite::ScopedImGui imgui;
 
 	// camera control                                          for control clicked problem
