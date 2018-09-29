@@ -124,8 +124,8 @@ void ofApp::draw(){
 			glm::dvec3 s = sampler.sample(u, v);
 
 			ofSetColor(ofColor::orange);
-			ofDrawSphere(s, 0.006f);
-			ofDrawSphere(glm::normalize(s), 0.006f);
+			ofDrawSphere(s, 0.007f);
+			ofDrawSphere(glm::normalize(s), 0.007f);
 		}
 	}
 

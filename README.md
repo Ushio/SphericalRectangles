@@ -2,7 +2,8 @@
 Carlos Ureña, Marcos Fajardo, Alan King , “An Area-Preserving Parametrization for Spherical Rectangles”
 
 ## demo
-![demo](demo.png)
+![bluenoise_1.png](bluenoise_1.png)
+![bluenoise_2.png](bluenoise_2.png)
 
 ## 依存
 [openframeworks 0.10.0](https://openframeworks.cc/ja/)
