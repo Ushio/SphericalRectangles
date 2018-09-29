@@ -13,3 +13,6 @@ Carlos Ureña, Marcos Fajardo, Alan King , “An Area-Preserving Parametrization
 ## bluenoise data
 from Result 1 (eps) <br>
 http://www.geometry.caltech.edu/BlueNoise/pointsets.html
+
+## TEST
+main.cpp has RUN_TEST Macro for simple test
