@@ -186,6 +186,7 @@
     <ClCompile Include="..\..\..\addons\ofxImGuiLite\libs\imgui_impl_glfw_gl3.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\coordinate.hpp" />
     <ClInclude Include="src\ofApp.h" />
     <ClInclude Include="..\..\..\addons\ofxImGuiLite\src\ofxImGuiLite.hpp" />
     <ClInclude Include="..\..\..\addons\ofxImGuiLite\libs\imconfig.h" />
@@ -196,7 +197,9 @@
     <ClInclude Include="..\..\..\addons\ofxImGuiLite\libs\stb_rect_pack.h" />
     <ClInclude Include="..\..\..\addons\ofxImGuiLite\libs\stb_textedit.h" />
     <ClInclude Include="..\..\..\addons\ofxImGuiLite\libs\stb_truetype.h" />
+    <ClInclude Include="src\online.hpp" />
     <ClInclude Include="src\peseudo_random.hpp" />
+    <ClInclude Include="src\randomsampler.hpp" />
     <ClInclude Include="src\SphericalRectangleSamplerCoordinate.hpp" />
     <ClInclude Include="src\SphericalRectangleSamplerCoordinate_Optimized.hpp" />
   </ItemGroup>

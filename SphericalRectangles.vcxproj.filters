@@ -83,6 +83,15 @@
     <ClInclude Include="src\peseudo_random.hpp">
       <Filter>src</Filter>
     </ClInclude>
+    <ClInclude Include="src\coordinate.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\randomsampler.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\online.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="icon.rc" />
